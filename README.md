@@ -1,4 +1,4 @@
 littlepage
 ==========
 
-practice
+this page is just for practice
